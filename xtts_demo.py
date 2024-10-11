@@ -231,6 +231,7 @@ if __name__ == "__main__":
             )
             progress_data = gr.Label(
                 label="Progress:"
+                
             )
             # demo.load(read_logs, None, logs, every=1)
 
